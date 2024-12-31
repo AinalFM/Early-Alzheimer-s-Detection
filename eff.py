@@ -1,4 +1,4 @@
-# This code shows how to do alzheimer detection using SqueezeNet pre-trained model from Torchvision
+# This code shows how to do alzheimer detection using EfficientNet pre-trained model from Torchvision
 
 import time
 import os
